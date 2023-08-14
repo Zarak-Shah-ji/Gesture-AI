@@ -32,7 +32,7 @@ To try out Gesture-AI, our real-time gesture detection and translation applicati
 
  OR
 
- 1. Directly open asl-signing-reco-1.ipynb in Google Colab or Jupter Notebook
+ 1. Directly download `asl-signing-reco-1.ipynb` in Google Colab or Jupter Notebook
  2. Start Kernel
  3. Run all cells.
 
