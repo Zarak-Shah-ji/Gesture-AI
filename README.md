@@ -30,6 +30,12 @@ To try out Gesture-AI, our real-time gesture detection and translation applicati
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python main.py`
 
+ OR
+
+ 1. Directly open asl-signing-reco-1.ipynb in Google Colab or Jupter Notebook
+ 2. Start Kernel
+ 3. Run all cells.
+
 ## Future Enhancements
 
 We are committed to further developing Gesture-AI and exploring additional features:
