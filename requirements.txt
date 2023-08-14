@@ -1,0 +1,4 @@
+opencv-python==4.5.3.56
+numpy==1.21.1
+matplotlib==3.4.3
+tensorflow==2.5.0  # Replace with your preferred deep learning framework
