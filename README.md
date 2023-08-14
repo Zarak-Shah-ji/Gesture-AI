@@ -26,7 +26,7 @@ Our primary goal is to make communication more accessible for the deaf and mute 
 
 To try out Gesture-AI, our real-time gesture detection and translation application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/gesture-ai.git`
+1. Clone the repository: `git clone https://github.com/Zarak-shah-ji/gesture-ai.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python main.py`
 
