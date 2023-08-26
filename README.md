@@ -1,4 +1,4 @@
-# Gesture-AI: Real-Time Sign Language Translation
+# Gesture-AI: Real-Time Sign Language Translation 
 
 
 ## Introduction
