@@ -38,6 +38,8 @@ To try out Gesture-AI, real-time gesture detection and translation application, 
 
 ## Future Enhancements
 
+
+
 Committed to further developing Gesture-AI and exploring additional features:
 
 - Improving accuracy and robustness of gesture detection and classification.
