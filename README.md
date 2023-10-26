@@ -52,7 +52,7 @@ I welcome contributions from the community to enhance Gesture-AI. Feel free to o
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under  the [MIT License](LICENSE).
 
 ---
 
