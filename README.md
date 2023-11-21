@@ -1,6 +1,6 @@
 # Gesture-AI: Real-Time Sign Language Translation 
 
-  
+    
 ## Introduction
 
 In a world of technological advancements, addressing the communication needs of people who are deaf or mute is crucial. Leveraging the power of deep learning and computer vision, I aim to contribute to this cause by creating an innovative solution.
