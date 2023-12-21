@@ -7,7 +7,7 @@
 ![GitHub follow](https://img.shields.io/github/followers/Zarak-Shah-ji?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Zarak-Shah-ji?label=Twitter&style=social)
 
-# Gesture-AI: Real-Time Sign Language Translation 
+# Gesture-AI: Real-Time Sign Language Translation  
  
     
 ## Introduction
