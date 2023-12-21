@@ -1,9 +1,9 @@
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
-![GitHub stars](https://img.shields.io/github/stars/Zarak-Shah-ji/MotionToast?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Zarak-Shah-ji/MotionToast?label=Fork&style=social)
-![Repo size](https://img.shields.io/github/repo-size/Zarak-Shah-ji/MotionToast?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Zarak-Shah-ji/Gesture-AI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Zarak-Shah-ji/Gesture-AI?label=Fork&style=social)
+![Repo size](https://img.shields.io/github/repo-size/Zarak-Shah-ji/Gesture-AI?style=social)
 ![GitHub follow](https://img.shields.io/github/followers/Zarak-Shah-ji?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Zarak-Shah-ji?label=Twitter&style=social)
 
